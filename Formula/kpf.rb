@@ -2,7 +2,7 @@ class Kpf < Formula
   desc "Kubectl port-forward manager with stable local ports"
   homepage "https://github.com/ahsan-v/kpf"
   url "https://github.com/ahsan-v/kpf/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "REPLACE_AFTER_RELEASE"
+  sha256 "e5ac47084c0f2a52205b244b94f35d230d334eec81b253e8d8727cc6e9cbc553"
   license "MIT"
 
   depends_on "jq"
